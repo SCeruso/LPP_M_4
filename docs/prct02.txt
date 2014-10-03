@@ -1,1 +1,3 @@
-trabajo en equipo git
+Una compilacion es una traduccion completa del codigo fuente a lenguaje maquina
+que genera un ejecutable. La interpretacion es la traduccion linea a linea del
+codigo fuente; no genera ejecutable alguno.
