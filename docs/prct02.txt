@@ -1,3 +1,12 @@
+49: Diferencia entre compilacion e interpretacion:
+
 Una compilacion es una traduccion completa del codigo fuente a lenguaje maquina
 que genera un ejecutable. La interpretacion es la traduccion linea a linea del
 codigo fuente; no genera ejecutable alguno.
+
+56: Diferencia contenido Helloworld.sh y Helloworld.rb
+
+La principal diferencia es que Helloworld.rb necesita de un interprete de ruby
+para ejecutarse mientras que Helloworld.sh se ejecuta en el interprete de la shell.
+
+La primera linea del Helloworld.sh contiene el nombre de la shell donde se ejecutara.
